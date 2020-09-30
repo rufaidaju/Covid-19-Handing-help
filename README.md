@@ -1,5 +1,5 @@
-# Covid-19-Helping hand  
-## HYF  Corona mini-hackathon 
+# HYF  Corona mini-hackathon   
+## Covid-19-Helping hand 
 ## Idea formulation:
 In these period where there is a lot of panic and focus on how not to get the virus and how many have it and how not to spread it, with states putting enforcement measures in place to control and stop the spread of the virus whilst ensuring people stay home, we decided to focus on the elderly people, individuals affected by the virus and people with weak immunity. with a conscious and mutually supportive community and a lot of volunteers, we found the idea of creating this application that helps them communicate , protect them and society and reduce friction between people to help control the spread of the virus. 
 We plan to build an application that connects volunteers to those who seek help in their everyday life, people with weak immunity, elderly people, single mothers and other group of individuals affected by the virus who are forced to stay home & self isolate hence, can’t go shopping or walk their dogs amongst others can be connected to volunteers who are willing to run these errands  using our app which will solve their problem. 
