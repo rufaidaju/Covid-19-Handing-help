@@ -5,7 +5,7 @@ In these period where there is a lot of panic and focus on how not to get the vi
 We plan to build an application that connects volunteers to those who seek help in their everyday life, people with weak immunity, elderly people, single mothers and other group of individuals affected by the virus who are forced to stay home & self isolate hence, can’t go shopping or walk their dogs amongst others can be connected to volunteers who are willing to run these errands  using our app which will solve their problem. 
 The application will be very easy to use with a few steps and not a lot of buttons, considering the elderly people and all of its users to make the lives of the people who need help a lot easier, we think it will be a good solution for the problems we stated above.
 
-## Wire frame:
+## Wire frames:
 https://docs.google.com/document/d/1jXe_PxNWfqMqi3MFkphMs1BC19c1PSIoZyWVRV08B_o/edit?usp=drivesdk
 
 ## About the code:
